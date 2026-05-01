@@ -31,6 +31,6 @@ My work is informed by over a decade of engineering in highly regulated sectors,
 *"Banking-grade security, brought to the browser."*
 
 ### 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/vincent-courtois-b9b25476/) | [Reddit](https://reddit.com/u/drpapineau)
+[LinkedIn](https://www.linkedin.com/in/vincent-courtois-b9b25476/) | [Reddit](https://reddit.com/u/Practical-Departure3)
 
 ---
