@@ -42,25 +42,13 @@ Connect with me on <a href="https://www.linkedin.com/in/vincent-courtois-b9b2547
 
 ---
 
-### Currently exploring
-
-<p style="color:#ff4d4d;">
-Security • High-performance PDF processing • DevSecOps pipelines • Offensive security research • Infrastructure automation
-</p>
-
----
-
 ### Outside of tech
 
 <p>
-Father • former MMA athlete • rebuilding through discipline, consistency, and purpose
+Father • former MMA athlete • recovering addict working on better stuff
 </p>
 
 ---
-
-<p style="opacity:0.9;">
-Everything I build reflects one mindset: precision, resilience, and constant evolution.
-</p>
 
 </div>
 
@@ -79,43 +67,7 @@ Next-generation PDF processing engine focused on:
 * reliability
 * large-scale processing
 
-Built with an architecture-first mindset.
-
 ---
-
-# // TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,go,ts,js,docker,kubernetes,linux,bash,git,github,gitlab,terraform,aws,postgresql,redis,nginx,rust" />
-
-</div>
-
----
-
-# // GITHUB STATS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff"/>
-
-</div>
-
----
-
-# // CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=000000&color=ffffff&line=ff0000&point=ff0000&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# // CURRENT FOCUS
 
 ```yaml
 security:
@@ -136,26 +88,16 @@ research:
 
 ---
 
-# // CONNECT
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vincent-courtois-b9b25476/">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=red" />
 </a>
 
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:v.courtois.bonenfant@gmail.com">
   <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=red" />
 </a>
 
 </div>
 
 ---
-
-<div align="center">
-
-```bash
-vc@github:~$ echo "Built Different"
-```
-
-</div>
